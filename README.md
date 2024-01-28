@@ -9,7 +9,7 @@ Link to the dataset - https://www.muratkoklu.com/datasets/
 
 ## Dataset Images
 
-![png](output_7_0.png)
+![png](./images/output_7_0.png)
 
 ## Dependencies
 tensorflow: For one-hot encoding.<br>
