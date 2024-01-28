@@ -8,8 +8,8 @@ The dataset used is Muratkoklu Rice Images dataset which comprises of Arborio, B
 Link to the dataset - https://www.muratkoklu.com/datasets/
 
 ## Dataset Images
-
-![png](./images/output_7_0.png)
+A preview of random images
+![png](./Images/output_7_0.png)
 
 ## Dependencies
 tensorflow: For one-hot encoding.<br>
